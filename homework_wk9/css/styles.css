@@ -1,0 +1,14 @@
+#map {
+    top: 50px;
+	bottom: 100px; 
+	left: 600px;
+	right: 600px;
+	height: 1000px;
+	width: 800px;
+}
+
+h1 {
+    margin-top:100px;
+	margin-left: 800px;
+	margin-right: 600px;
+}
